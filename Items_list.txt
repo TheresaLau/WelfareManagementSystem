@@ -1,0 +1,16 @@
+No.   Name             Quantity    Category
+1     nasi lemak       6           2                 
+2     water bottle     4           3                 
+3     red yoyo         2           6                 
+4     fish balls       2           2                 
+5     graph paper      3           4                 
+6     mouse            2           5                 
+7     trouser          3           3                 
+8     fresh meat       3           2                 
+9     T-shirt          3           3                 
+10    cake             5           2                 
+11    A4 paper         7           4                 
+12    pencil           3           4                 
+13    durian           7           2                 
+14    banana           6           2                 
+15    skirt            2           3                 
